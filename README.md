@@ -1,2 +1,2 @@
 # FlappyBird
-A flappy bird game clone written in Java
+A flappy bird game clone for desktop and Android platforms using Java and libgdx.
